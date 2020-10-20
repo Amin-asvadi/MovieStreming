@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<group android:checkableBehavior="single">
+    <item android:id="@+id/nav_home"
+        android:title="@string/home"
+        android:icon="@drawable/ic_home"/>
+    <item android:id="@+id/nav_search"
+        android:title="@string/search"
+        android:icon="@drawable/ic_search"/>
+    <item android:id="@+id/nav_payment"
+        android:title="BuyAccount"
+        android:icon="@drawable/ic_baseline_payment_24"/>
+    <item android:id="@+id/nav_genre"
+        android:icon="@drawable/ic_genre"
+        android:title="@string/genre"/>
+</group>
+</menu>

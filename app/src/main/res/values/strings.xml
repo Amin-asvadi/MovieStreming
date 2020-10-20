@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MovieStreaming</string>
+    <string name="top_movies_imdb">Top Movies IMDb</string>
+    <string name="more"><![CDATA[More >]]></string>
+    <string name="name">name</string>
+    <string name="top_persian">Top Persian</string>
+    <string name="new_released">new released</string>
+    <string name="drama">Drama</string>
+    <string name="genre">Genre</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="email_adress">Email Adress</string>
+    <string name="phone_number">Phone Number</string>
+</resources>
